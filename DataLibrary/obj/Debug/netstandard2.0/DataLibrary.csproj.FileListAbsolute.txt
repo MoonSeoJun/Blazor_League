@@ -1,0 +1,9 @@
+E:\Projects\Projects\Blazor_League\DataLibrary\bin\Debug\netstandard2.0\DataLibrary.deps.json
+E:\Projects\Projects\Blazor_League\DataLibrary\bin\Debug\netstandard2.0\DataLibrary.dll
+E:\Projects\Projects\Blazor_League\DataLibrary\bin\Debug\netstandard2.0\DataLibrary.pdb
+E:\Projects\Projects\Blazor_League\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.csprojAssemblyReference.cache
+E:\Projects\Projects\Blazor_League\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.AssemblyInfoInputs.cache
+E:\Projects\Projects\Blazor_League\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.AssemblyInfo.cs
+E:\Projects\Projects\Blazor_League\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.csproj.CoreCompileInputs.cache
+E:\Projects\Projects\Blazor_League\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.dll
+E:\Projects\Projects\Blazor_League\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.pdb
